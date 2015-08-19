@@ -1,0 +1,3 @@
+Excma. Diputación de Ávila
+============
+Aplicación con toda la información de Ávila: puntos de interés, rutas, noticias, servicios...
